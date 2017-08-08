@@ -1,6 +1,6 @@
 /*****************************
  * Author: Maria Sanchez
- * CS3354 Summer 2017
+ * CS3354 Summer II
  *****************************/
 
 import java.util.*;
